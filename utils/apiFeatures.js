@@ -41,7 +41,7 @@ const applyFiltering = (queryString) => {
   const values = [];
   let i = 1;
 
-  for (const key in queryObj) {
+  for (const key of queryObj) {
     if (key.includes("[")) {
       // Example: price[gte]=100
       const [field, operator] = key.replace("]", "").split("[");
