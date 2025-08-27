@@ -1,4 +1,4 @@
-# My Project
+# EchoPoint API
 
 A Node.js + PostgreSQL backend with authentication, authorization, and advanced query handling (filtering, sorting, pagination, field limiting).
 
