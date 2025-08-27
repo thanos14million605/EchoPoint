@@ -1,6 +1,6 @@
 # EchoPoint API
 
-A Node.js + PostgreSQL backend with authentication, authorization, and advanced query handling (filtering, sorting, pagination, field limiting).
+A blog post API that supports posts and comments, written with Node.js + PostgreSQL backend with authentication, authorization, and advanced query handling (filtering, sorting, pagination, field limiting).
 
 Built with love by Ebrima Gajaga ❤️❤️❤️❤️
 
